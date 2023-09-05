@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: '小植的网站状态',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -9,7 +9,7 @@ window.Config = {
     'm795224152-7178b731f67f3d83783e3502',
     'm795224169-beb1ed45c542e10fa84fe892',
     'm795224320-5abc8d55c166375d6d1be856',
-    'm795224310-cf729d591d97cbf8cd5417c2'
+    'm795224440-8b341f9efdb2fd7d9bd1afcc'
   ],
 
   // 日志天数
@@ -21,16 +21,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
-    },
-    {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/huangblogs'
     },
     {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: '博客',
+      url: 'https://blog.xiaoztx.top/'
     },
   ],
 };
